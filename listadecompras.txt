@@ -4,3 +4,4 @@ feijão
 sal
 sazon
 detergente
+sabonete
